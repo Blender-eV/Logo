@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="1024"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Logo-j01.svg"
+   inkscape:export-filename="V:\Git\Blender-eV\Logo\Logo-j01.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient5222"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5224" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="303.50187"
+     inkscape:cy="543.01828"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     borderlayer="true"
+     inkscape:window-width="2456"
+     inkscape:window-height="1418"
+     inkscape:window-x="1592"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="background"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-28.362183)"
+     style="display:inline">
+    <rect
+       style="color:#000000;fill:#2f5e8a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:26.85899925;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3780"
+       width="1089.9546"
+       height="1092.985"
+       x="-31.314726"
+       y="-5.26753" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="icon"
+     style="display:inline">
+    <path
+       transform="translate(0,-28.362183)"
+       id="rect3761"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:10;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 597.5414,402.22335 156.54987,-0.11837 m 0.009,32.33147 -156.55853,0.093 m 265.9845,109.34875 c 0,60.4389 -48.9954,109.4343 -109.4343,109.4343 -60.4389,0 -109.43431,-48.9954 -109.43431,-109.4343 0,-60.43889 48.99541,-109.4343 109.43431,-109.4343 60.4389,0 109.4343,48.99541 109.4343,109.4343 z m 32.34096,10e-6 c 0,78.3003 -63.47494,141.77526 -141.77526,141.77526 -78.30031,0 -141.77526,-63.47496 -141.77526,-141.77526 0,-78.30031 63.47495,-141.77527 141.77526,-141.77527 78.30032,0 141.77526,63.47496 141.77526,141.77527 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccssssssssss" />
+    <rect
+       transform="translate(0,-28.362183)"
+       style="color:#000000;fill:#2f5e8a;fill-opacity:1;stroke:none;stroke-width:14;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3764"
+       width="134.89807"
+       height="22.335361"
+       x="618.99017"
+       y="407.13477" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:none;stroke:#2f5e8a;stroke-width:25.45307922;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3766"
+       sodipodi:cx="308.57144"
+       sodipodi:cy="315.21933"
+       sodipodi:rx="142.85715"
+       sodipodi:ry="142.85715"
+       d="m 451.42859,315.21933 a 142.85715,142.85715 0 1 1 -285.7143,0 142.85715,142.85715 0 1 1 285.7143,0 z"
+       transform="matrix(0.87935965,0,0,0.87935965,482.74635,238.32487)" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#2f5e8a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:26.85899925;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path5230"
+       sodipodi:cx="812.85712"
+       sodipodi:cy="496.85715"
+       sodipodi:rx="65.714287"
+       sodipodi:ry="65.714287"
+       d="m 878.5714,496.85715 a 65.714287,65.714287 0 1 1 -131.42857,0 65.714287,65.714287 0 1 1 131.42857,0 z"
+       transform="matrix(0.88456938,0,0,0.88456938,5.5688628,48.435318)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="text"
+     style="display:inline">
+    <text
+       transform="translate(0,-28.362183)"
+       xml:space="preserve"
+       style="font-size:83.48062134px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="551.92853"
+       y="439.70563"
+       id="text3755"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3757"
+         x="551.92853"
+         y="439.70563"
+         dx="0 0 0 0 0 0 0 7.49997">blenderday</tspan></text>
+    <text
+       transform="translate(0,-28.362183)"
+       sodipodi:linespacing="125%"
+       id="text3772"
+       y="538.19513"
+       x="548.12646"
+       style="font-size:83.48062134px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+       xml:space="preserve"><tspan
+         y="538.19513"
+         x="548.12646"
+         id="tspan3774"
+         sodipodi:role="line">2014</tspan></text>
+  </g>
+</svg>
